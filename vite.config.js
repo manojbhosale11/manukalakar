@@ -52,7 +52,7 @@ export default defineConfig(({ mode }) => {
             allowedHosts: true,
         },
         build: {
-            outDir: 'build',
+            outDir: 'dist',
             sourcemap: false,
             chunkSizeWarningLimit: 1200,
         },
