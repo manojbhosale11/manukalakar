@@ -237,7 +237,7 @@ export const weddings = [
         location: 'Satara, Maharashtra',
         date: 'May 2026',
         excerpt:
-            'A two-day wedding by the Krishna river — sunrise haldi, sunset baraat, and a quiet exchange of garlands under a banyan that had seen weddings before this one.',
+            'A two-day wedding in Satara, capturing the love and connection between Dipali and Jayesh amidst the vibrant moments of their wedding celebration.',
         cover: '/images/weddings/DJ/001.webp',
         images: [
             '/images/weddings/DJ/001.webp',
@@ -256,7 +256,7 @@ export const weddings = [
         location: 'Virar, Maharashtra',
         date: 'april 2026',
         excerpt:
-            '',
+            'A Engagement shoot in Virar, capturing the love and connection between Struti and Sameer amidst the vibrant moments of their engagement celebration.',
         cover: '/images/weddings/SS/016.webp',
         images: [
             '/images/weddings/SS/008.webp',
@@ -276,7 +276,7 @@ export const weddings = [
         location: 'Mumbai, Maharashtra',
         date: 'February 2026',
         excerpt:
-            'A monsoon-soaked vidaai. Umbrellas, dupattas heavy with rain, and a bride who insisted on walking the last twenty steps to the car under an open sky.',
+            ' A Pre-wedding shoot in Mumbai, capturing the love and connection between Akanksha and Manoj amidst the vibrant cityscape.',
         cover: '/images/weddings/AM/020.webp',
         images: [
             '/images/weddings/AM/017.webp',
@@ -343,17 +343,16 @@ export const timeline = [
 ];
 
 export const clients = [
-    'National Geographic Traveller India',
-    'The Caravan',
-    'Sahyadri Wedding Festival',
-    'Maharashtra Tourism',
-    'Khadi & Village Industries',
-    'Saregama Bhakti',
+    'S & S',
+    'D & J',
+    'A & M',
+    'D & V',
+    'S & Y',
+    'R & R',
 ];
 
 export const equipment = [
-    { name: 'Leica Q3', note: 'Daily companion, almost always loaded.' },
-    { name: 'Nikon Z6 II', note: 'For weddings and low-light work.' },
-    { name: '35mm f/1.4 · 50mm f/1.8 · 85mm f/1.8', note: 'Three primes, no zoom.' },
-    { name: 'Hasselblad 500 C/M', note: 'For the portraits I want to return to in twenty years.' },
+    { name: 'Sony A7 III', note: 'Daily companion, almost always loaded.' },
+    { name: 'Sony A7R IV', note: 'For weddings and low-light work.' },
+    { name: '35mm f/1.4 · 50mm f/1.8 · 28mm-75mm f/2.8 VXD', note: 'Two primes, One zoom.' },
 ];
